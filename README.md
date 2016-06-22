@@ -1,0 +1,2 @@
+# TabbarImageOnline
+动态加载tabbaritem的图片，根据url来展示，类似于淘宝底部tabbar会根据不同的活动显示不同的一些图片和文字
